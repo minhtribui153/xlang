@@ -1,0 +1,109 @@
+© NoCli Technologies 2022-2023
+The X Programming Language
+v1.1.5 (alpha)
+Language Grammar
+
+
+=> SECTION A: BUILT-IN VALUE TYPES
+'int'       │ Integer number            (min: -2147483648,   max: 2147483647)
+'float'     │ Decimal number            (min: ±1.5 * 10^−45, max:  ±3.4 * 10^38)
+'bool'      │ Boolean                   (true or false)
+'string'    │ String                    (any type of character to be contained inside)
+'list'      │ List                      (stores elements)
+'function'  │ Function method
+'object'    │ Any value
+
+=> SECTION B: OPERATORS [TOKENS]
+
+│ Mathematical Operators ('+', '-', '*', '/', '^', '%')
+
+'+'  │ Added To
+'-'  │ Subtract By
+'*'  │ Multiply By
+'/'  │ Divide By
+'^'  │ Powered By
+'%'  │ Modulus Of
+
+│ Bracket Operators ('(', ')', '[', ']', '{', '}')
+
+'('  │ Open Parenthesis
+')'  │ Closed Parenthesis
+'['  │ Open Square Bracket
+']'  │ Closed Square Bracket
+'{'  │ Open Curly Bracket
+'}'  │ Closed Curly Bracket
+
+│ Logical Operators ('&', '|', '!')
+
+'&'  │ And
+'|'  │ Or
+'!'  │ Not
+
+│ Conditional Operators ('==', '!=', '<', '>', '<=', '>=')
+
+'==' │ Equals To
+'!=' │ Not Equal To
+'<'  │ Lesser Than
+'>'  │ Greater Than
+'<=' │ Lesser Than Or Equal To
+'>=' │ Greater Than Or Equal To
+
+│ Miscellaneous Operators
+
+'='  │ Assign To
+':'  │ From To
+','  │ Comma
+'"'  │ Double Quote
+'.'  │ Get Variable Attribute
+
+=> SECTION C: RESERVED KEYWORDS
+<    > : required
+[    ] : optional to use 
+
+│ Variable Assignments ("assign", "set")
+
+"assign"   ─┤ Assigns a variable
+            └── assign ["mut"] <ident> = <value>
+
+"set"      ─┤ Changes the value instance of a defined variable
+            └── set <ident> = <value>
+
+"func"     ─┤ Creates a function method
+            └── func <ident>(...[<param_ident> <type>]) => <body>
+
+│ Control Statements ("if", "else", "for", "while")
+
+"if"       ─┤ Constructs an 'if' statement
+            └── if <value:"bool"> then <body>
+
+"else"     ─┤ Constructs an 'else' statement (and allows continuation of 'if' statement)
+            ├── else if <value:"bool"> then <body>
+            ├── else if <value:"bool"> then
+            │       <body>
+            │       ...
+            │   end
+            └── else <body>
+
+"for"      ─┤ Constructs a 'for' statement
+            └── for <ident> = <value:"int"> ["step"; <value:"int">] : <value:"int"> then <body>
+
+"foreach"  ─┤ Constructs a 'for each' statement
+            └── foreach <ident> from <value> then <body>
+ 
+"while"    ─┤ Constructs a 'while' statement
+            └── while <condition> then <body>
+
+│ Optional Keywords ("then", "step", "from", "func", "mut")
+
+"then"     ─┤ Parses the body into a control statement
+            └── then <body>
+
+"step"     ─┤ Jumps an int-based number to another element (skipping elements)
+            └── step <value:"int">
+
+"from"     ─┤ Creates a variable in line from a subscriptable value (for 'foreach') or checks if a value is inside a subscriptable value
+            ├── <ident> from <value>
+			└── <value> from <value> -> <value:"bool">
+
+"mut"      ─┤ Makes a variable mutable (can be changed)
+

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z07/mI/4s/eyauwSFcL5L2VGaaDgonL7lXU+JodAc6jKyqxONt8c7PUpj/Bym/tr85f9PVAkCq9IcAK9HZfezw==",
+  "success": true,
+  "projectFilePath": "/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/x.csproj",
+  "expectedPackageFiles": [
+    "/Users/tribui/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/tribui/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/tribui/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

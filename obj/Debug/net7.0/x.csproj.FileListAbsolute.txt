@@ -1,0 +1,30 @@
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/bin/Debug/net7.0/x
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/bin/Debug/net7.0/x.deps.json
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/bin/Debug/net7.0/x.runtimeconfig.json
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/bin/Debug/net7.0/x.dll
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/bin/Debug/net7.0/x.pdb
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/obj/Debug/net7.0/x.csproj.AssemblyReference.cache
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/obj/Debug/net7.0/x.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/obj/Debug/net7.0/x.AssemblyInfoInputs.cache
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/obj/Debug/net7.0/x.AssemblyInfo.cs
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/obj/Debug/net7.0/x.csproj.CoreCompileInputs.cache
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/obj/Debug/net7.0/x.dll
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/obj/Debug/net7.0/refint/x.dll
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/obj/Debug/net7.0/x.pdb
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/obj/Debug/net7.0/x.genruntimeconfig.cache
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/xlang/X Programming Language/obj/Debug/net7.0/ref/x.dll
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/bin/Debug/net7.0/x
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/bin/Debug/net7.0/x.deps.json
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/bin/Debug/net7.0/x.runtimeconfig.json
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/bin/Debug/net7.0/x.dll
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/bin/Debug/net7.0/x.pdb
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/obj/Debug/net7.0/x.csproj.AssemblyReference.cache
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/obj/Debug/net7.0/x.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/obj/Debug/net7.0/x.AssemblyInfoInputs.cache
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/obj/Debug/net7.0/x.AssemblyInfo.cs
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/obj/Debug/net7.0/x.csproj.CoreCompileInputs.cache
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/obj/Debug/net7.0/x.dll
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/obj/Debug/net7.0/refint/x.dll
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/obj/Debug/net7.0/x.pdb
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/obj/Debug/net7.0/x.genruntimeconfig.cache
+/Users/tribui/Desktop/Created Projects/Coding Language Projects/X Programming Language/xlang/X Programming Language/obj/Debug/net7.0/ref/x.dll

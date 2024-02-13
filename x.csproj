@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>X_Programming_Language</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ReleaseVersion>1.1.5</ReleaseVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Utilities\" />
+    <None Remove="Constants\" />
+    <None Remove="Errors\" />
+    <None Remove="Nodes\" />
+    <None Remove="Values\" />
+    <None Remove="Results\" />
+    <None Remove="Library\" />
+    <None Remove="Library\BuiltIn\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Utilities\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Errors\" />
+    <Folder Include="Nodes\" />
+    <Folder Include="Values\" />
+    <Folder Include="Results\" />
+    <Folder Include="Library\" />
+    <Folder Include="Library\BuiltIn\" />
+  </ItemGroup>
+</Project>
