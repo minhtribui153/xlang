@@ -2,4 +2,4 @@
 
 My own custom coding language inspired by Visual Basic.
 
-[Demo code](./code.png)
+![Demo code](./code.png)
